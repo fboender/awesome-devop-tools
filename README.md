@@ -28,6 +28,16 @@ systems.
   Documentation source files are written in Markdown, and configured with a
   single YAML configuration file.
 
+
+## Filesystems
+
+* **[mhddfs](https://romanrm.net/mhddfs)**: join several filesystems together to
+  form a single larger one.
+* **[sshfs](https://github.com/libfuse/sshfs)**: allows you to mount a remote
+  filesystem using SFTP. Most SSH servers support and enable this SFTP access
+  by default, so SSHFS is very simple to use - there's nothing to do on the
+  server-side.
+
 ## Linting
 
 * **[httpolice](https://github.com/vfaronov/httpolice)**: a validator for HTTP
