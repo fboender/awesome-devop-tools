@@ -17,6 +17,17 @@ systems.
   with GUI for testing emails in applications easily.
 
 
+## Documentation
+
+* **[asciidoc](http://www.methods.co.nz/asciidoc/)**: a text document format
+  for writing notes, documentation, articles, books, ebooks, slideshows, web
+  pages, man pages and blogs. AsciiDoc files can be translated to many formats
+  including HTML, PDF, EPUB, man page.
+* **[mkdocs](http://www.mkdocs.org/)**: a fast, simple and downright gorgeous
+  static site generator that's geared towards building project documentation.
+  Documentation source files are written in Markdown, and configured with a
+  single YAML configuration file.
+
 ## Linting
 
 * **[httpolice](https://github.com/vfaronov/httpolice)**: a validator for HTTP
