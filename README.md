@@ -46,3 +46,9 @@ systems.
 
 * **[fakesmtp](http://nilhcem.com/FakeSMTP/index.html)**: a Fake SMTP Server
   with GUI for testing emails in applications easily.
+
+## Linting
+
+* **[httpolice](https://github.com/vfaronov/httpolice)**: a validator for HTTP
+  requests and responses. It can spot bad header syntax, inappropriate status
+  codes, and other interoperability problems in your HTTP server or client.
