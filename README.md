@@ -7,6 +7,9 @@ systems.
 
 ## Networking
 
+* **[mtr](https://www.bitwizard.nl/mtr/)**: My TraceRoute. combines the
+  functionality of the 'traceroute' and 'ping' programs in a single network
+  diagnostic tool.
 * **[netcat](https://en.wikipedia.org/wiki/Netcat)**: a computer networking
   utility for reading from and writing to network connections using TCP or
   UDP. Replacement for telnet. Can also act as a server.
@@ -26,3 +29,13 @@ systems.
   can execute meaningful causal actions in error situations.
 * **[iotop](http://guichaz.free.fr/iotop/)**: Show disk and swap I/O per
   process.
+
+## Security
+
+* **[fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)**: Fail2ban
+  scans log files and bans IPs that show the malicious signs.
+
+## Dev stubbing
+
+* **[fakesmtp](http://nilhcem.com/FakeSMTP/index.html)**: a Fake SMTP Server
+  with GUI for testing emails in applications easily.
