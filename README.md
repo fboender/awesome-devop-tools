@@ -61,6 +61,10 @@ systems.
 
 * **[fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)**: Fail2ban
   scans log files and bans IPs that show the malicious signs.
+* **[fern](http://ferm.foo-projects.org/)**:  a tool to maintain complex
+  firewalls, without having the trouble to rewrite the complex rules over and
+  over again. 
 * **[testssl](https://testssl.sh/)**: checks a server's service on any port
   for the support of TLS/SSL ciphers, protocols as well as recent
   cryptographic flaws and more. 
+
