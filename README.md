@@ -20,6 +20,8 @@ systems.
   implementation using TCP packets
 * **[wavemon](https://github.com/uoaerg/wavemon)**: an ncurses-based
   monitoring application for wireless network devices.
+* **[rinetd](https://www.boutell.com/rinetd/)**: Redirects TCP connections
+  from one IP address and port to another. 
 
 
 ## Monitoring
@@ -30,10 +32,15 @@ systems.
 * **[iotop](http://guichaz.free.fr/iotop/)**: Show disk and swap I/O per
   process.
 
+
 ## Security
 
 * **[fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)**: Fail2ban
   scans log files and bans IPs that show the malicious signs.
+* **[testssl](https://testssl.sh/)**: checks a server's service on any port
+  for the support of TLS/SSL ciphers, protocols as well as recent
+  cryptographic flaws and more. 
+
 
 ## Dev stubbing
 
