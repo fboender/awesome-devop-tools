@@ -36,7 +36,6 @@ systems.
   SSH without requiring a remote VPN server or admin rights. Instead, it
   builds up an ssh session and than locally forwards traffic over it by
   creating local PREROUTING firewall rules.
-
 * **[stunnel](https://www.stunnel.org/)**: a proxy designed to add TLS
   encryption functionality to existing clients and servers without any changes
   in the programs' code.
@@ -68,3 +67,12 @@ systems.
   for the support of TLS/SSL ciphers, protocols as well as recent
   cryptographic flaws and more. 
 
+
+## Source control
+
+* **[tig](https://github.com/jonas/tig)**: an ncurses-based text-mode
+  interface for git.
+* **[git cola](https://git-cola.github.io/)**: a sleek and powerful graphical
+  user interface for Git.
+* **[multi-git-status](https://github.com/fboender/multi-git-status)**: Show
+  uncommitted, untracked and unpushed changes for multiple Git repos.
