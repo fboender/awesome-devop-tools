@@ -15,6 +15,11 @@ systems.
 
 * **[fakesmtp](http://nilhcem.com/FakeSMTP/index.html)**: a Fake SMTP Server
   with GUI for testing emails in applications easily.
+* **[tcconfig](https://github.com/thombashi/tcconfig/blob/master/README.rst)**:
+  Easy to set up traffic control of network bandwidth/latency/packet
+  loss/packet-corruption to a network interface.
+
+
 
 
 ## Documentation
@@ -37,6 +42,7 @@ systems.
   filesystem using SFTP. Most SSH servers support and enable this SFTP access
   by default, so SSHFS is very simple to use - there's nothing to do on the
   server-side.
+
 
 ## Linting
 
@@ -75,6 +81,8 @@ systems.
   can execute meaningful causal actions in error situations.
 * **[iotop](http://guichaz.free.fr/iotop/)**: Show disk and swap I/O per
   process.
+* **[logtail](https://www.fourmilab.ch/webtools/logtail/)**: Watch Multiple
+  Log Files on Multiple Machines.
 
 
 ## Security
