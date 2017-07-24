@@ -18,7 +18,7 @@ systems.
   documents.
 * **[xlstproc](http://xmlsoft.org/XSLT/xsltproc.html)**: Process XSLT on the
   commandline.
-* **(jq)[https://stedolan.github.io/jq/]**: a lightweight and flexible
+* **[jq](https://stedolan.github.io/jq/)**: a lightweight and flexible
   command-line JSON processor.
 
 
