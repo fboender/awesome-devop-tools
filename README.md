@@ -11,6 +11,15 @@ systems.
   MSSQL, etc).
 
 
+## Data filtering and transformations
+
+* **[XMLStarlet](http://xmlstar.sourceforge.net/)**: Commandline tools to work
+  with XML. Validate (DTD, XSD), XPath, XSLT, modify and visualize XML
+  documents.
+* **[xlstproc](http://xmlsoft.org/XSLT/xsltproc.html)**: Process XSLT on the
+  commandline.
+
+
 ## Dev stubbing
 
 * **[fakesmtp](http://nilhcem.com/FakeSMTP/index.html)**: a Fake SMTP Server
@@ -18,8 +27,6 @@ systems.
 * **[tcconfig](https://github.com/thombashi/tcconfig/blob/master/README.rst)**:
   Easy to set up traffic control of network bandwidth/latency/packet
   loss/packet-corruption to a network interface.
-
-
 
 
 ## Documentation
