@@ -24,7 +24,7 @@ systems.
   developers. Meld helps you compare files, directories, and version
   controlled projects. It provides two- and three-way comparison of both files
   and directories, and has support for many popular version control systems.
-* **[expect](https://linux.die.net/man/1/expect)**: Systematically unteract
+* **[expect](https://linux.die.net/man/1/expect)**: Systematically interact
   with programs that can't be scripted but require human interaction.
 
 
@@ -57,11 +57,11 @@ systems.
   filesystem using SFTP. Most SSH servers support and enable this SFTP access
   by default, so SSHFS is very simple to use - there's nothing to do on the
   server-side.
-* **[squashfs](http://squashfs.sourceforge.net/): Create and mount compressed
+* **[squashfs](http://squashfs.sourceforge.net/)**: Create and mount compressed
   filesystem images.
 * **[xdiskusage](http://xdiskusage.sourceforge.net/)**: Visually represent
   disk usage in and below a directory.
-* [rsync](https://rsync.samba.org/)**: Provides fast, reliable, configurable
+* **[rsync](https://rsync.samba.org/)**: Provides fast, reliable, configurable
   incremental file transfer on local disk or over the network. Archive,
   mirror, etc.
 
