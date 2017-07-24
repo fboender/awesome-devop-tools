@@ -20,6 +20,12 @@ systems.
   commandline.
 * **[jq](https://stedolan.github.io/jq/)**: a lightweight and flexible
   command-line JSON processor.
+* **[meld](http://meldmerge.org/)**: a visual diff and merge tool targeted at
+  developers. Meld helps you compare files, directories, and version
+  controlled projects. It provides two- and three-way comparison of both files
+  and directories, and has support for many popular version control systems.
+* **[expect](https://linux.die.net/man/1/expect)**: Systematically unteract
+  with programs that can't be scripted but require human interaction.
 
 
 ## Dev stubbing
@@ -51,6 +57,13 @@ systems.
   filesystem using SFTP. Most SSH servers support and enable this SFTP access
   by default, so SSHFS is very simple to use - there's nothing to do on the
   server-side.
+* **[squashfs](http://squashfs.sourceforge.net/): Create and mount compressed
+  filesystem images.
+* **[xdiskusage](http://xdiskusage.sourceforge.net/)**: Visually represent
+  disk usage in and below a directory.
+* [rsync](https://rsync.samba.org/)**: Provides fast, reliable, configurable
+  incremental file transfer on local disk or over the network. Archive,
+  mirror, etc.
 
 
 ## Linting
@@ -65,6 +78,9 @@ systems.
 * **[mtr](https://www.bitwizard.nl/mtr/)**: My TraceRoute. combines the
   functionality of the 'traceroute' and 'ping' programs in a single network
   diagnostic tool.
+* **[lft](https://linux.die.net/man/8/lft)**: display the route packets take
+  to a network host/socket using one of several layer-4 protocols and
+  methods. Basically traceroute for TCP, UDP and ICMP.
 * **[netcat](https://en.wikipedia.org/wiki/Netcat)**: a computer networking
   utility for reading from and writing to network connections using TCP or
   UDP. Replacement for telnet. Can also act as a server.
@@ -81,6 +97,8 @@ systems.
   monitoring application for wireless network devices.
 * **[rinetd](https://www.boutell.com/rinetd/)**: Redirects TCP connections
   from one IP address and port to another. 
+* **[dig](https://en.wikipedia.org/wiki/Dig_(command))**: The multitool for
+  DNS enquiries.
 
 
 ## Monitoring
@@ -104,6 +122,8 @@ systems.
 * **[testssl](https://testssl.sh/)**: checks a server's service on any port
   for the support of TLS/SSL ciphers, protocols as well as recent
   cryptographic flaws and more. 
+* **[pwgen](https://github.com/jbernard/pwgen)**: Generate pronouncable and
+  easy to type passwords.
 
 
 ## Source control
