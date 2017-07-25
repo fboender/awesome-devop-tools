@@ -18,6 +18,10 @@ systems.
   documents.
 * **[xlstproc](http://xmlsoft.org/XSLT/xsltproc.html)**: Process XSLT on the
   commandline.
+* **[xmllint](http://xmlsoft.org/xmllint.html)**: parses one or more XML
+  files, specified on the command line as xmlfile. It prints various types of
+  output, depending upon the options selected. It is useful for detecting
+  errors both in XML code and in the XML parser itself.
 * **[jq](https://stedolan.github.io/jq/)**: a lightweight and flexible
   command-line JSON processor.
 * **[meld](http://meldmerge.org/)**: a visual diff and merge tool targeted at
