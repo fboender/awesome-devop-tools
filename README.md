@@ -43,6 +43,8 @@ systems.
 
 ## Documentation
 
+* **[pandoc](https://pandoc.org/)**: convert files from one markup format into
+  another. Supports a large number of formats.
 * **[asciidoc](http://www.methods.co.nz/asciidoc/)**: a text document format
   for writing notes, documentation, articles, books, ebooks, slideshows, web
   pages, man pages and blogs. AsciiDoc files can be translated to many formats
