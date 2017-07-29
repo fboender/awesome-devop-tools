@@ -77,6 +77,8 @@ systems.
 * **[httpolice](https://github.com/vfaronov/httpolice)**: a validator for HTTP
   requests and responses. It can spot bad header syntax, inappropriate status
   codes, and other interoperability problems in your HTTP server or client.
+* **[shellcheck](http://www.shellcheck.net/)**: a tool that gives warnings and
+  suggestions for bash/sh shell scripts.
 
 
 ## Networking
