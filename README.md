@@ -6,14 +6,14 @@ systems.
 
 ## Databases
 
-* **[SquirrelSQL](http://squirrel-sql.sourceforge.net/)**: Multi-database
+* **[squirrelsql](http://squirrel-sql.sourceforge.net/)**: Multi-database
   graphical SQL client. Supports anything JDBC supports (MySQL, Postgres,
   MSSQL, etc).
 
 
 ## Data filtering and transformations
 
-* **[XMLStarlet](http://xmlstar.sourceforge.net/)**: Commandline tools to work
+* **[xmlstarlet](http://xmlstar.sourceforge.net/)**: Commandline tools to work
   with XML. Validate (DTD, XSD), XPath, XSLT, modify and visualize XML
   documents.
 * **[xlstproc](http://xmlsoft.org/XSLT/xsltproc.html)**: Process XSLT on the
