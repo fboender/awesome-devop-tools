@@ -105,8 +105,8 @@ systems.
   monitoring application for wireless network devices.
 * **[rinetd](https://www.boutell.com/rinetd/)**: Redirects TCP connections
   from one IP address and port to another. 
-* **[dig](https://en.wikipedia.org/wiki/Dig_(command))**: The multitool for
-  DNS enquiries.
+* **[dig](https://mediatemple.net/community/products/dv/204644130/understanding-the-dig-command)**:
+  The multitool for DNS enquiries.
 
 
 ## Monitoring
