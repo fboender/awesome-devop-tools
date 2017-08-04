@@ -39,11 +39,6 @@ systems.
 * **[tcconfig](https://github.com/thombashi/tcconfig/blob/master/README.rst)**:
   Easy to set up traffic control of network bandwidth/latency/packet
   loss/packet-corruption to a network interface.
-* **[charlesproxy](https://www.charlesproxy.com/)**: HTTP proxy / HTTP monitor
-  / Reverse Proxy that enables a developer to view all of the HTTP and SSL /
-  HTTPS traffic between their machine and the Internet. This includes
-  requests, responses and the HTTP headers (which contain the cookies and
-  caching information).
 
 
 ## Documentation
@@ -112,11 +107,6 @@ systems.
   from one IP address and port to another. 
 * **[dig](https://mediatemple.net/community/products/dv/204644130/understanding-the-dig-command)**:
   The multitool for DNS enquiries.
-* **[charlesproxy](https://www.charlesproxy.com/)**: HTTP proxy / HTTP monitor
-  / Reverse Proxy that enables a developer to view all of the HTTP and SSL /
-  HTTPS traffic between their machine and the Internet. This includes
-  requests, responses and the HTTP headers (which contain the cookies and
-  caching information).
 
 
 ## Monitoring
