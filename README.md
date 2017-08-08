@@ -40,6 +40,19 @@ systems.
   Easy to set up traffic control of network bandwidth/latency/packet
   loss/packet-corruption to a network interface.
 
+## Development aids
+
+* **[soapui](https://www.soapui.org/)**: A SOAP and REST testing tool.
+* **[skajla](http://skajla.blogspot.nl/2010/05/jmx-command-line-client.html)**:
+  Command-line [JMX](https://en.wikipedia.org/wiki/Java_Management_Extensions)
+  client.
+* **[virtualbox](https://www.virtualbox.org/)**: Powerful x86 and
+  AMD64/Intel64 virtualization lets you run full-fledged Windows, Linux,
+  Solaris and BSD Virtual machines on your computer.
+* **[vagrant](https://www.vagrantup.com/)**: Quickly bring up Virtual Machines
+  for development and testing using a single declarative configuration file.
+* **[lxdock](http://lxdock.readthedocs.io/)**: Quickly bring up lightweight
+  containers for development and testing.
 
 ## Documentation
 
@@ -53,6 +66,10 @@ systems.
   static site generator that's geared towards building project documentation.
   Documentation source files are written in Markdown, and configured with a
   single YAML configuration file.
+* **[yed](https://www.yworks.com/products/yed)**: cross-platform diagram
+  editor.
+* **[plantuml](http://plantuml.com/)**: Generate UML diagrams from a simple
+  text-based description.
 
 
 ## Filesystems
