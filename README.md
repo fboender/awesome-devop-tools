@@ -70,6 +70,8 @@ systems.
   editor.
 * **[plantuml](http://plantuml.com/)**: Generate UML diagrams from a simple
   text-based description.
+* **[graphviz](http://www.graphviz.org/)**: Use a simple text language to
+  generate diagrams of abstract graphs and networks.
 
 
 ## Filesystems
