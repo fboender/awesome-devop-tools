@@ -129,6 +129,9 @@ systems.
   from one IP address and port to another. 
 * **[dig](https://mediatemple.net/community/products/dv/204644130/understanding-the-dig-command)**:
   The multitool for DNS enquiries.
+* **[ipcalc](http://jodies.de/ipcalc)**: IP network calculator. Available as
+  online tool as well as a downloadable package. (Ubuntu users: `apt install
+  ipcalc`).
 
 
 ## Monitoring
