@@ -141,15 +141,15 @@ systems.
   can execute meaningful causal actions in error situations.
 * **[iotop](http://guichaz.free.fr/iotop/)**: Show disk and swap I/O per
   process.
-* **[logtail](https://www.fourmilab.ch/webtools/logtail/)**: Watch Multiple
-  Log Files on Multiple Machines.
+* **[logtail](https://www.fourmilab.ch/webtools/logtail/)**: Watch multiple
+  log files on multiple machines.
 
 
 ## Security
 
 * **[fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)**: Fail2ban
   scans log files and bans IPs that show the malicious signs.
-* **[fern](http://ferm.foo-projects.org/)**:  a tool to maintain complex
+* **[ferm](http://ferm.foo-projects.org/)**:  a tool to maintain complex
   firewalls, without having the trouble to rewrite the complex rules over and
   over again. 
 * **[testssl](https://testssl.sh/)**: checks a server's service on any port
