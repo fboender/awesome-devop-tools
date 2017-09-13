@@ -155,7 +155,8 @@ systems.
 ## Security
 
 * **[fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)**: Fail2ban
-  scans log files and bans IPs that show the malicious signs.
+  scans log files and bans IPs that show malicious signs. Easily protects your
+  SSH ports against attacks.
 * **[ferm](http://ferm.foo-projects.org/)**:  a tool to maintain complex
   firewalls, without having the trouble to rewrite the complex rules over and
   over again. 
@@ -167,6 +168,9 @@ systems.
 * **[keystore explorer](http://keystore-explorer.org/)**: Java GUI for
   managing Java Key stores (SSL certificate databases). Also lets you convert
   all kinds of certificate formats.
+* **[qualys ssl server test](https://www.ssllabs.com/ssltest/)**: Online tool
+  for deep analysis of the configuration of any SSL web server on the public
+  Internet.
 
 
 ## Source control
