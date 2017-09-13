@@ -9,6 +9,8 @@ systems.
 * **[squirrelsql](http://squirrel-sql.sourceforge.net/)**: Multi-database
   graphical SQL client. Supports anything JDBC supports (MySQL, Postgres,
   MSSQL, etc).
+* **[apache directory studio](http://directory.apache.org/studio/)**: A
+  complete GUI LDAP management tool.
 
 
 ## Data filtering and transformations
@@ -30,6 +32,8 @@ systems.
   and directories, and has support for many popular version control systems.
 * **[expect](https://linux.die.net/man/1/expect)**: Systematically interact
   with programs that can't be scripted but require human interaction.
+* **[fop](https://xmlgraphics.apache.org/fop/)**: XSL-driven documentation
+  generator. Basically takes XML and XSL as input and generates PDF, PS, etc.
 
 
 ## Dev stubbing
@@ -132,6 +136,9 @@ systems.
 * **[ipcalc](http://jodies.de/ipcalc)**: IP network calculator. Available as
   online tool as well as a downloadable package. (Ubuntu users: `apt install
   ipcalc`).
+* **[netalyzr](http://netalyzr.icsi.berkeley.edu/)**: Commandline tool that
+  runs various network related tests and generates a report for potential
+  problems. (careful: sends the results to Berkeley for research purposes).
 
 
 ## Monitoring
@@ -157,6 +164,9 @@ systems.
   cryptographic flaws and more. 
 * **[pwgen](https://github.com/jbernard/pwgen)**: Generate pronouncable and
   easy to type passwords.
+* **[keystore explorer](http://keystore-explorer.org/)**: Java GUI for
+  managing Java Key stores (SSL certificate databases). Also lets you convert
+  all kinds of certificate formats.
 
 
 ## Source control
