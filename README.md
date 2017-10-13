@@ -36,6 +36,13 @@ systems.
   generator. Basically takes XML and XSL as input and generates PDF, PS, etc.
 
 
+## Desktop
+
+* **[tilix](https://github.com/gnunn1/tilix)**: A tiling terminal emulator for
+  Linux.
+* **[zim](http://zim-wiki.org/)**: Powerful desktop wiki / note taking
+  application.
+
 ## Dev stubbing
 
 * **[fakesmtp](http://nilhcem.com/FakeSMTP/index.html)**: a Fake SMTP Server
