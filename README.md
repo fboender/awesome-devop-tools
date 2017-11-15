@@ -9,6 +9,8 @@ systems.
 * **[squirrelsql](http://squirrel-sql.sourceforge.net/)**: Multi-database
   graphical SQL client. Supports anything JDBC supports (MySQL, Postgres,
   MSSQL, etc).
+* **[dbeaver](https://github.com/serge-rider/dbeaver)**: Free universal
+  database manager and SQL client.
 * **[apache directory studio](http://directory.apache.org/studio/)**: A
   complete GUI LDAP management tool.
 
