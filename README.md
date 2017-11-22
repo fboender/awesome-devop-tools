@@ -148,6 +148,9 @@ systems.
 * **[netalyzr](http://netalyzr.icsi.berkeley.edu/)**: Commandline tool that
   runs various network related tests and generates a report for potential
   problems. (careful: sends the results to Berkeley for research purposes).
+* **[mitmproxy](https://mitmproxy.org/)**: An interactive console program that
+  allows HTTP traffic flows to be intercepted, inspected, modified and
+  replayed.
 
 
 ## Monitoring
