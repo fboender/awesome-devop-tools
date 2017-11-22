@@ -153,6 +153,12 @@ systems.
   replayed.
 
 
+## Miscellaneous
+
+* **[lnav](http://lnav.org/)**: An advanced log file viewer for the
+  small-scale. Watch and analyze your log files from a terminal. No server. No
+  setup. Still featureful.
+
 ## Monitoring
 
 * **[monit](https://mmonit.com/monit/)**: a small utility for managing and
