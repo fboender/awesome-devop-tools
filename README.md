@@ -211,6 +211,13 @@ systems.
 * **[qualys ssl server test](https://www.ssllabs.com/ssltest/)**: Online tool
   for deep analysis of the configuration of any SSL web server on the public
   Internet.
+* **[mozilla ssl configuration
+  generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)**:
+  Generate secure SSL configurations for the most common browsers.
+* **[mozilla observatory](https://observatory.mozilla.org/)**: Scan hosts for
+  HTTPS, TLS and SSH to see if they are configured safely and securely. Warns
+  about missing and improperly configured Content Security Policies for
+  websites.
 
 
 ## Source control
