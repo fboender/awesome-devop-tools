@@ -61,6 +61,7 @@ systems.
 * **[zim](http://zim-wiki.org/)**: Powerful desktop wiki / note taking
   application.
 
+
 ## Dev stubbing
 
 * **[fakesmtp](http://nilhcem.com/FakeSMTP/index.html)**: a Fake SMTP Server
@@ -71,6 +72,7 @@ systems.
 * **[tcconfig](https://github.com/thombashi/tcconfig/blob/master/README.rst)**:
   Easy to set up traffic control of network bandwidth/latency/packet
   loss/packet-corruption to a network interface.
+
 
 ## Development aids
 
@@ -85,6 +87,7 @@ systems.
   for development and testing using a single declarative configuration file.
 * **[lxdock](http://lxdock.readthedocs.io/)**: Quickly bring up lightweight
   containers for development and testing.
+
 
 ## Documentation
 
