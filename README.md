@@ -107,6 +107,7 @@ systems.
   text-based description.
 * **[graphviz](http://www.graphviz.org/)**: Use a simple text language to
   generate diagrams of abstract graphs and networks.
+* **[wkhtmltopdf](https://wkhtmltopdf.org/)**: Convert HTML to PDF.
 
 
 ## Filesystems
