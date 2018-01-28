@@ -4,6 +4,22 @@ DevOps tools
 A curated list of development and operational tools for Unix-like operating
 systems.
 
+**Contents**
+
+* [Databases](#databases)
+* [Data filtering and transformations](#data-filtering-and-transformations)
+* [Desktop](#desktop)
+* [Dev stubbing](#dev-stubbing)
+* [Development aids](#development-aids)
+* [Documentation](#documentation)
+* [Filesystems](#filesystems)
+* [Linting](#linting)
+* [Networking](#networking)
+* [Monitoring](#monitoring)
+* [Security](#security)
+* [Source control](#source-control)
+
+
 ## Databases
 
 * **[squirrelsql](http://squirrel-sql.sourceforge.net/)**: Multi-database
