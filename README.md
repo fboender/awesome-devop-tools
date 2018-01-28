@@ -190,6 +190,8 @@ systems.
 * **[lnav](http://lnav.org/)**: An advanced log file viewer for the
   small-scale. Watch and analyze your log files from a terminal. No server. No
   setup. Still featureful.
+* **[sentry](https://sentry.io/welcome/)**: Open-source error tracking that
+  helps developers monitor and fix crashes in real time.
 
 
 ## Security
