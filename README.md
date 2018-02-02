@@ -87,6 +87,8 @@ systems.
   for development and testing using a single declarative configuration file.
 * **[lxdock](http://lxdock.readthedocs.io/)**: Quickly bring up lightweight
   containers for development and testing.
+* **[when-changed](https://github.com/joh/when-changed)**: Automatically run
+  commands when files change on disk.
 
 
 ## Documentation
