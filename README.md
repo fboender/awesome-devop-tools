@@ -20,6 +20,12 @@ systems.
 * [Source control](#source-control)
 
 
+## Backup
+
+* **[restic](https://restic.readthedocs.io/en/latest/)**: Fast, encrypted
+  remote incremental backups that works without a remote server in a chrooted
+  remote SFTP. Single binary written in Go.
+
 ## Databases
 
 * **[squirrelsql](http://squirrel-sql.sourceforge.net/)**: Multi-database
@@ -189,6 +195,8 @@ systems.
 * **[monit](https://mmonit.com/monit/)**: a small utility for managing and
   monitoring Unix systems. Monit conducts automatic maintenance and repair and
   can execute meaningful causal actions in error situations.
+* **[monitorix](http://www.monitorix.org)**: Lightweight monitoring tool that
+  collects and displays many system usage graphs through a web interface.
 * **[iotop](http://guichaz.free.fr/iotop/)**: Show disk and swap I/O per
   process.
 * **[logtail](https://www.fourmilab.ch/webtools/logtail/)**: Watch multiple
