@@ -206,6 +206,8 @@ systems.
   setup. Still featureful.
 * **[sentry](https://sentry.io/welcome/)**: Open-source error tracking that
   helps developers monitor and fix crashes in real time.
+* **[ts](https://joeyh.name/code/moreutils/)**: Add timestamps to piped output
+  (stdout). E.g. `rsync x y | ts '[%Y-%m-%d %H:%M:%S]'`.
 
 
 ## Security
