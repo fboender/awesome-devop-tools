@@ -183,11 +183,6 @@ systems.
   usage what top(1) does for CPU usage. It listens to network traffic on a
   named interface and displays a table of current bandwidth usage by pairs of
   hosts. Handy for answering the question "why is our ADSL link so slow?".
-* **[iptraf](http://iptraf.seul.org/)**: IPTraf is a console-based network
-  statistics utility for Linux. It gathers a variety of figures such as TCP
-  connection packet and byte counts, interface statistics and activity
-  indicators, TCP/UDP traffic breakdowns, and LAN station packet and byte
-  counts.
 
 
 ## Monitoring
