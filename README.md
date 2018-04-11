@@ -63,6 +63,8 @@ systems.
   with programs that can't be scripted but require human interaction.
 * **[fop](https://xmlgraphics.apache.org/fop/)**: XSL-driven documentation
   generator. Basically takes XML and XSL as input and generates PDF, PS, etc.
+* **[dhex](http://www.dettus.net/dhex/)**: Console / curses-based hex editor
+  with diffing mode.
 
 
 ## Desktop
