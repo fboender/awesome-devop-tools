@@ -140,6 +140,9 @@ systems.
 * **[rsync](https://rsync.samba.org/)**: Provides fast, reliable, configurable
   incremental file transfer on local disk or over the network. Archive,
   mirror, etc.
+* **[ncdu](https://dev.yorhel.nl/ncdu/scr)**: A disk usage analyzer with an
+  ncurses interface. It is designed to find space hogs on a remote server
+  where you don't have an entire graphical setup available.
 
 
 ## Linting
