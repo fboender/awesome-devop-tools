@@ -127,6 +127,9 @@ systems.
 
 ## Filesystems
 
+* **[archivemount](https://en.wikipedia.org/wiki/Archivemount)**: Mount tar
+  archives, including write-support. (changes are written when archive is
+  unmounted).
 * **[mhddfs](https://romanrm.net/mhddfs)**: join several filesystems together to
   form a single larger one.
 * **[sshfs](https://github.com/libfuse/sshfs)**: allows you to mount a remote
