@@ -227,6 +227,10 @@ systems.
 * **[ferm](http://ferm.foo-projects.org/)**:  a tool to maintain complex
   firewalls, without having the trouble to rewrite the complex rules over and
   over again. 
+* **[lynus](https://cisofy.com/lynis/)**: Lynis is a battle-tested security
+  tool for systems running Linux, macOS, or Unix-based operating system. It
+  performs an extensive health scan of your systems to support system
+  hardening and compliance testing.
 * **[testssl](https://testssl.sh/)**: checks a server's service on any port
   for the support of TLS/SSL ciphers, protocols as well as recent
   cryptographic flaws and more. 
