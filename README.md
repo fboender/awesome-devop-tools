@@ -249,6 +249,9 @@ systems.
   HTTPS, TLS and SSH to see if they are configured safely and securely. Warns
   about missing and improperly configured Content Security Policies for
   websites.
+* **[zed attack
+  proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)**: A
+  java desktop gui to perform PEN tests against web applications.
 
 
 ## Source control
