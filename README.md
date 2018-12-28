@@ -18,6 +18,7 @@ systems.
 * [Monitoring](#monitoring)
 * [Security](#security)
 * [Source control](#source-control)
+* [Other lists](#other-lists)
 
 
 ## Backup
@@ -267,3 +268,9 @@ systems.
   user interface for Git.
 * **[multi-git-status](https://github.com/fboender/multi-git-status)**: Show
   uncommitted, untracked and unpushed changes for multiple Git repos.
+
+## Other lists
+
+* **[awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)**: A curated
+  list of amazingly awesome open source sysadmin resources inspired by Awesome
+  PHP.
