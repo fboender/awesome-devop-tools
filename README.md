@@ -223,6 +223,8 @@ systems.
   mechanisms to store the values in a variety of ways, for example in RRD
   files. Has many plugins and many frontends are available for viewing the
   data.
+* **[osquery](https://osquery.io)**: Use SQL to query information from your
+  device / system.
 
 
 ## Security
