@@ -217,6 +217,11 @@ systems.
   helps developers monitor and fix crashes in real time.
 * **[ts](https://joeyh.name/code/moreutils/)**: Add timestamps to piped output
   (stdout). E.g. `rsync x y | ts '[%Y-%m-%d %H:%M:%S]'`.
+* **[collectd](https://collectd.org)**: Collectd is a daemon which collects
+  system and application performance metrics periodically and provides
+  mechanisms to store the values in a variety of ways, for example in RRD
+  files. Has many plugins and many frontends are available for viewing the
+  data.
 
 
 ## Security
