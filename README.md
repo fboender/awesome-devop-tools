@@ -147,6 +147,9 @@ systems.
 * **[ncdu](https://dev.yorhel.nl/ncdu/scr)**: A disk usage analyzer with an
   ncurses interface. It is designed to find space hogs on a remote server
   where you don't have an entire graphical setup available.
+* **[fdupes](https://github.com/adrianlopezroche/fdupes)**: FDUPES is a
+  program for identifying or deleting duplicate files residing within
+  specified directories.
 
 
 ## Linting
