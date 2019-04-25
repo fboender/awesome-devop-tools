@@ -242,17 +242,18 @@ systems.
   tool for systems running Linux, macOS, or Unix-based operating system. It
   performs an extensive health scan of your systems to support system
   hardening and compliance testing.
-* **[testssl](https://testssl.sh/)**: checks a server's service on any port
-  for the support of TLS/SSL ciphers, protocols as well as recent
-  cryptographic flaws and more. 
 * **[pwgen](https://github.com/jbernard/pwgen)**: Generate pronouncable and
   easy to type passwords.
 * **[keystore explorer](http://keystore-explorer.org/)**: Java GUI for
   managing Java Key stores (SSL certificate databases). Also lets you convert
   all kinds of certificate formats.
+* **[testssl.sh](https://testssl.sh/)**: a free command line tool which checks
+  a server's service on any port for the support of TLS/SSL ciphers, protocols
+  as well as recent cryptographic flaws and more.
 * **[qualys ssl server test](https://www.ssllabs.com/ssltest/)**: Online tool
   for deep analysis of the configuration of any SSL web server on the public
-  Internet.
+  Internet. Commandline [also
+  available](https://github.com/ssllabs/ssllabs-scan).
 * **[mozilla ssl configuration
   generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)**:
   Generate secure SSL configurations for the most common browsers.
