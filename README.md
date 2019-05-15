@@ -201,6 +201,9 @@ systems.
   named interface and displays a table of current bandwidth usage by pairs of
   hosts. Handy for answering the question "why is our ADSL link so slow?".
 * **[tinc](https://www.tinc-vpn.org/)**: A auto-routing meshing VPN.
+* **[proxychains](https://github.com/haad/proxychains)**: a tool that forces
+  any TCP connection made by any given application to follow through proxy
+  like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 
 
 ## Monitoring
