@@ -24,14 +24,16 @@ systems.
 
 ## Backup
 
+* **[borgbackup](https://borgbackup.readthedocs.io/en/stable/)**: BorgBackup
+  is a deduplicating backup program. Optionally, it supports compression and
+  authenticated encryption.
+* **[borgmatic](https://github.com/witten/borgmatic)**: Simple,
+  configuration-driven backup software for servers and workstations. A
+  user-friendly wrapper around borgbackup.
 * **[restic](https://restic.readthedocs.io/en/latest/)**: Fast, encrypted
   remote incremental backups that works without a remote server in a chrooted
   remote SFTP. Single binary written in Go. **Warning**: Pruning old backups
   is very slow.
-* **[borgbackup](https://borgbackup.readthedocs.io/en/stable/)**: BorgBackup
-  is a deduplicating backup program. Optionally, it supports compression and
-  authenticated encryption.
-
 
 ## Databases
 
