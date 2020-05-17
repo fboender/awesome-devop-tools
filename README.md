@@ -6,6 +6,7 @@ systems.
 
 **Contents**
 
+* [Backup](#backup)
 * [Databases](#databases)
 * [Data filtering and transformations](#data-filtering-and-transformations)
 * [Desktop](#desktop)
