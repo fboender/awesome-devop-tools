@@ -103,6 +103,8 @@ Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 * **[skajla](http://skajla.blogspot.nl/2010/05/jmx-command-line-client.html)**:
   Command-line [JMX](https://en.wikipedia.org/wiki/Java_Management_Extensions)
   client.
+* **[insomnia](https://github.com/Kong/insomnia)**: a cross-platform REST
+  client, built on top of Electron.
 * **[virtualbox](https://www.virtualbox.org/)**: Powerful x86 and
   AMD64/Intel64 virtualization lets you run full-fledged Windows, Linux,
   Solaris and BSD Virtual machines on your computer.
