@@ -109,6 +109,8 @@ systems.
   containers for development and testing.
 * **[when-changed](https://github.com/joh/when-changed)**: Automatically run
   commands when files change on disk.
+* **[entr](http://eradman.com/entrproject/)**: Automatically run commands when
+  files change on disk.
 
 
 ## Documentation
