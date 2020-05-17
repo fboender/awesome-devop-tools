@@ -86,6 +86,9 @@ systems.
 * **[mailslurper](http://mailslurper.com/)**: a Fake SMTP server with a web
   interface for testing emails without actually sending them. Simple
   single-package installation.
+* **[mailhog](https://github.com/mailhog/MailHog)**: a Fake SMTP server with a
+  web interface for testing emails without actually sending them. Simple
+  single-package installation.
 * **[tcconfig](https://github.com/thombashi/tcconfig/blob/master/README.rst)**:
   Easy to set up traffic control of network bandwidth/latency/packet
   loss/packet-corruption to a network interface.
