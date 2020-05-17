@@ -4,6 +4,9 @@ DevOps tools
 A curated list of development and operational tools for Unix-like operating
 systems.
 
+All tools are [Open Source / Free
+Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+
 **Contents**
 
 * [Backup](#backup)
