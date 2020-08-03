@@ -280,6 +280,10 @@ Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 * **[zed attack
   proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)**: A
   java desktop gui to perform PEN tests against web applications.
+* **[simple event correlator](https://simple-evcorr.github.io/)**: an event
+  correlation tool for advanced event processing which can be harnessed for
+  event log monitoring, for network and security management, for fraud
+  detection, and for any other task which involves event correlation.
 
 
 ## Source control
