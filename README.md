@@ -284,6 +284,10 @@ Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
   correlation tool for advanced event processing which can be harnessed for
   event log monitoring, for network and security management, for fraud
   detection, and for any other task which involves event correlation.
+* **[age](https://github.com/FiloSottile/age)**: age is a simple, modern and
+  secure file encryption tool, format, and library. It features small explicit
+  keys, no config options, and UNIX-style composability. Does symmetric and
+  asymmetric encryption (public / private keys). Way simpler than GPG.
 
 
 ## Source control
